@@ -1,0 +1,7 @@
+id = "moonfly-theme"
+name = "Moonfly Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["qaynam"]
+description = "A dark and light theme inspired by bluz71/vim-moonfly-colors"
+repository = "https://github.com/qaynam/zed-moonfly"
